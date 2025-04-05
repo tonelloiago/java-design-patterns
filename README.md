@@ -14,3 +14,11 @@ This repository serves as:
 - A personal knowledge base and reference
 - A learning resource for other developers
 - A showcase of software craftsmanship in everyday development
+
+📒 Patterns:
+
+- Behavioral
+  - Strategy: 
+
+- Creational
+  - Factory: [ExceptionFactory](https://github.com/tonelloiago/java-design-patterns/tree/main/creational/factory#readme)
