@@ -33,7 +33,7 @@ object ExceptionFactory {
 - ✅ Avoids duplication across services and controllers
 - ✅ Enables customization and easier maintenance
 
-❌ Cons of Exception Factory Method
+❌ Cons of Exception Factory Method:
 - Extra Abstraction Layer: For small projects or isolated error cases, this might feel like overengineering.
 - Reduced Flexibility in Some Scenarios: If the factory centralizes too much logic, it might become harder to handle exceptions that require complex construction logic.
 - Risk of violate Single Responsability Principle: If all exception creation is placed into one big ExceptionFactory, it may grow too large.
