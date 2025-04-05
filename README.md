@@ -1,5 +1,5 @@
 🧩 Design Patterns in My Projects
-This repository contains project snippets with implementations of classic and modern software design patterns.
+<br><br>This repository contains project snippets with implementations of classic and modern software design patterns.
 
 Each example showcases how I implement a design pattern in my projects, explaining the benefits, trade-offs, and real-world use cases of each approach.
 
